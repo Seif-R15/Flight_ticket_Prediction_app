@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import sklearn
 import joblib
+import category_encoders as ce
 
 
 st.title("Flight-Tickets App")
